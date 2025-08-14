@@ -132,5 +132,5 @@ Objective: Turn equity into yield.
 ---
 
 **Bottom Line:**
-SAFE = High-variance, low-probability, high-magnitude reward.
-UNSAFE = Moderate-variance, high-probability, compounding reward.
+**SAFE** = High-variance, low-probability, high-magnitude reward.
+**UNSAFE** = Moderate-variance, high-probability, compounding reward.
